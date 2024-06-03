@@ -15,6 +15,7 @@
 	<Version>1.0.0</Version>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Description>A lightweight C# web API wrapper for Rust's repository on Facepunch Studio's commit website.</Description>
   </PropertyGroup>
 
   <ItemGroup>
